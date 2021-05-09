@@ -1,0 +1,35 @@
+
+state={
+	id=2
+	name="STATE_2"
+	manpower = 1587634
+	
+	state_category = city
+
+	history={
+		owner = GBR
+		
+		victory_points = {
+		 11293 20  3359 5
+		}
+		
+		buildings = {
+			infastructure = 9
+			industrial_complex = 3
+			dockyard = 3
+			air_base = 3
+			
+			1193 = {
+				naval_base = 6
+			}
+		}
+		
+		add_core_of = GBR
+		add_core_of = IRE
+	}
+
+	provinces={
+		11293 3359 11303 369 303 3342 285 7377
+	}
+	
+}

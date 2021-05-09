@@ -1,0 +1,28 @@
+state={
+	id=5
+	name="STATE_5"
+	manpower = 422129
+	
+	state_category = rural
+
+	history={
+		owner = GBR
+		
+		victory_points = {
+		3396 10
+		}
+		
+		buildings = {
+			infastructure = 4
+			dockyard = 1
+		}
+		
+		add_core_of = GBR
+		add_core_of = IRE
+	}
+
+	provinces={
+		9321 9369 3396 9303 9255 11287 11238 11371 337
+	}
+	
+}
