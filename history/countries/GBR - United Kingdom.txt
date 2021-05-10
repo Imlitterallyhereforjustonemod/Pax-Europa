@@ -1,0 +1,11 @@
+capital = 126
+
+oob = "GBR_1936"
+
+set_fuel_ratio = 0.95
+
+
+set_research_slots = 3
+set_convoys = 175
+set_stability = 0.9
+set_war_support = 0.23
