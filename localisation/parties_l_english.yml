@@ -63,10 +63,10 @@
  
  
  
- GBR_monarchism_party:0 "Labour Party"
- GBR_monarchism_party_long:0 "Labour Party"
- GBR_democratic_party:0 "Labour Party"
- GBR_democratic_party_long:0 "Labour Party"
+ GBR_monarchism_party:0 "Conservatives"
+ GBR_monarchism_party_long:0 "Conservative Party"
+ GBR_democratic_party:0 "Conservatives"
+ GBR_democratic_party_long:0 "Conservative Party"
  GBR_communism_party:0 "CPGB"
  GBR_communism_party_long:0 "Communist Party of Great Britain"
  GBR_fascism_party:0 "His Majesty's Royal Court"
