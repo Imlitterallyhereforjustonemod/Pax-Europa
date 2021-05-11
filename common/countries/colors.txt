@@ -1,42 +1,45 @@
 
 
 GBR = {
-	color = {
+	
+	color = rgb {
 		179 0 0
 	}
 	
-	color_ui = {
+	color_ui = rgb {
 		179 0 0
 	}
 }
 
 NIR = {
 	
-	color = {
+	color = rgb {
 		0 85 129
 	}
 	
-	color_ui = {
+	color_ui = rgb {
 		0 85 129
 	}
 }
 
 IRE = {
 	
-	color = {
+	color = rgb {
 		0 102 34
 	}
 	
-	color_ui = {
+	color_ui = rgb {
 		0 102 34
 	}
 }
 
 SOV = {
-	color = {
+	
+	color = rgb {
 		0 102 0
 	}
 	
-	color_ui = {
+	color_ui = rgb {
 		0 102 0
 	}
+}
