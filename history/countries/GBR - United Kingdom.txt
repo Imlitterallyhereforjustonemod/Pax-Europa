@@ -1,6 +1,6 @@
 capital = 126
 
-oob = "GBR_1936"
+oob = "GBR_1925"
 
 set_fuel_ratio = 0.95
 

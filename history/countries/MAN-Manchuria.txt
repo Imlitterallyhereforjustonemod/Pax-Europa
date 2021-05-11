@@ -1,0 +1,26 @@
+capital = 328
+
+oob = "MAN_1925"
+
+set_fuel_ratio = 0.6
+
+set_research_slots = 2
+set_convoys = 25
+set_stability = 0.45
+set_war_support = 0.75
+	
+set_politics = {
+	ruling_party = monarchism
+	last_election = "1917.3.3"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 9
+	fascism = 20
+	communism = 1
+	monarchism = 70
+}
+
+set_cosmetic_tag = MAN_RUS

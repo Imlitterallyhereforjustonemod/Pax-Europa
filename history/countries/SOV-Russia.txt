@@ -1,6 +1,6 @@
 capital = 195
 
-oob = "SOV_1936"
+oob = "SOV_1925"
 
 set_fuel_ratio = 0.85
 
@@ -9,6 +9,11 @@ set_convoys = 125
 set_stability = 0.55
 set_war_support = 0.08
 
+	set_autonomy = {
+		target = MAN
+		autonomous_state = autonomy_puppet
+	}
+	
 set_politics = {
 	ruling_party = monarchism
 	last_election = "1917.3.3"
