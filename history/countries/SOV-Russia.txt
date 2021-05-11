@@ -1,0 +1,34 @@
+capital = 195
+
+oob = "SOV_1936"
+
+set_fuel_ratio = 0.85
+
+set_research_slots = 3
+set_convoys = 125
+set_stability = 0.55
+set_war_support = 0.08
+
+set_politics = {
+	ruling_party = monarchism
+	last_election = "1917.3.3"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 40
+	fascism = 3
+	communism = 27
+	monarchism = 30
+}
+
+create_country_leader = {
+	name = "Nicholas II of 	Holstein-Gottorp-Romanov"
+	desc = "POLITICS_NICHOLAS_II_DESC"
+	picture = ""
+	expire = "1965.1.1"
+	ideology = absolute_monarchism
+	traits = {
+	}
+}

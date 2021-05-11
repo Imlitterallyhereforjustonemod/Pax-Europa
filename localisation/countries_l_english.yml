@@ -30,6 +30,7 @@ l_english:
  IRE_ADJ:0 "Irish"
  IRE_fascist_ADJ:0 "Gaeilge"
  
+
  NIR_monarchism:0 "Governate of Belfast-Londonderry"
  NIR_democratic:0 "Free Republic of Ulster"
  NIR_commnism:0 "People's Republic of Ulster"
@@ -44,3 +45,20 @@ l_english:
  
  NIR_ADJ:0 "North Irish"
  NIR_neutrality_ADJ:0 "Northeastern Irish"
+ 
+ 
+ SOV_monarchism:0 "Russian Empire"
+ SOV_democratic:0 "Russian Provisional Republic"
+ SOV_communism:0 "Menshevik Soviet Union of Russia"
+ SOV_fascism:0 "Russian Reclamation Government"
+ SOV_neutrality:0 "Russian Military Junta"
+ 
+ SOV_monarchism_DEF:0 "the Russian Empire"
+ SOV_democratic_DEF:0 "the Russian Provisional Republic"
+ SOV_communism_DEF:0 "the Menshevik Soviet Union of Russia"
+ SOV_fascism_DEF:0 "the Russian Reclamation Government"
+ SOV_neutrality_DEF:0 "the Russian Military Junta"
+ 
+ SOV_ADJ:0 "Russian"
+ SOV_communism_ADJ:0 "Soviet"
+ 
