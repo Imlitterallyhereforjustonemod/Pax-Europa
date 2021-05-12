@@ -23,4 +23,4 @@ set_popularities = {
 	monarchism = 70
 }
 
-set_cosmetic_tag = MAN_RUS
+	set_cosmetic_tag = MAN_SOV
